@@ -51,4 +51,4 @@
 196617|
 <CC03EA><color=0004><string=0104><lineend><CC03F8=0001><color=0001>Can he change his own fate?<lineend>...Time will tell...<pause><lineend>|
 196618|
-<CC03EA><color=0004><string=0104><lineend><color=0002>ティタニア湖<color=0001>にいって<lineend>オンディーヌと会うがいい。<pause><lineend><CC03EA>彼女は水のあるところなら<lineend>どこへでも通ずることができる。<lineend>お前をアーソントゥラへと導くだろう。<lineend><pause>|
+<CC03EA><color=0004><string=0104><lineend><color=0002>Let's <color=0001>go<lineend> to Lake Titania, it would be good to meet Ondine there.<pause><lineend><CC03EA>She can<lineend>maneuver through any aquatic environment.<lineend>She will undoubtedly lead you to Asontula.<lineend><pause>|
