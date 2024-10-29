@@ -1,6 +1,6 @@
 Princess Crown Translation: SamIAm Edition.
 MiYaku Gaming's first Edition is focused on finishing up what SamIAm started with full respect to the Translator, so thank you, you are not forgotten!
-This Fork is focused on keeping the Translation SamIAm originally used and finishing lines not Translate while fixing issues as well.
+This Fork is focused on keeping the Translation SamIAm originally used and finishing up lines that were not Translated while fixing issues as well.
 Credit for hacking, coding and nearly complete Translation goes to the original team below.
 --------------------------
 
