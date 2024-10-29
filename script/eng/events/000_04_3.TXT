@@ -95,4 +95,4 @@
 131082|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>...Very well, my Queen. I shall do as you command.<pause><lineend>|
 131083|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>やはり騎士団を連れて行かれたほうが・・・<lineend>・・・いえ、なんでもございません。<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I knew it, it's better if I went accompanied by the knight guards...<lineend>No, there is nothing like that.<pause><lineend>|
