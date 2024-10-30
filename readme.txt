@@ -14,7 +14,7 @@ Credits
 -CyberWarriorX(hacking and insertion utilities)
 -SamIAm for Original Translation modified by MiYaku
 -cafealpha(mksplash)
--MiYaku Gaming for Translation from scratch
+-MiYaku Gaming for completing remaining Translations not done by SamIAm
 
 Special Thanks
 --------------
