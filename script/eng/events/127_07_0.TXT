@@ -11,7 +11,7 @@
 65541|
 <CC03EA><color=0004><string=0104><lineend><color=0001>Very well. I shall tell you.<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0104><lineend><color=0001>It is on a cursed island known as Arsontula.<pause><lineend><CC03EA> Deep within that island is a door that connects this world with the Demon Realm.<pause><lineend><CC03EA>The sword you seek was plunged into that door, where it also serves to pin down a Demon.<pause><lineend><CC03EA>By placing it there, your Father sealed off the path to the Demon Realm.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>It is on a cursed island known as Asontula.<pause><lineend><CC03EA> Deep within that island is a door that connects this world with the Demon Realm.<pause><lineend><CC03EA>The sword you seek was plunged into that door, where it also serves to pin down a Demon.<pause><lineend><CC03EA>By placing it there, your Father sealed off the path to the Demon Realm.<pause><lineend>|
 65543|
 <CC03EA><color=0003><string=0001><lineend><color=0001>He actually pinned a Demon to the door?<pause><lineend>|
 65544|
@@ -43,12 +43,12 @@
 196613|
 <CC03EA><color=0003><string=0001><lineend><color=0001>There is no other path for me to take.<pause><lineend><CC03EA>If I die there, at least I can die as the son my Father believed in.<pause><lineend>|
 196614|
-<CC03EA><color=0004><string=0104><lineend><color=0001>If that's how you feel, then I will tell you what to do.<pause><lineend><CC03EA><color=0001>Go to <color=0002>Lake Titania<color=0001> and find Ondine.<pause><lineend><CC03EA>She has the power to take you where your feet cannot.<pause><lineend><CC03EA>She will lead you to Arsontula.<lineend><pause>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>If that's how you feel Edward, then I will guide you.<pause><lineend><CC03EA><color=0001>Go to <color=0002>Lake Titania<color=0001> and find Ondine.<pause><lineend><CC03EA>She can guide anyone in seemingly<lineend>impossible watery locations.<pause><lineend><CC03EA>She will lead you to Asontula.<lineend><pause>|
 196615|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>Ondine...<lineend><CC03ED=00010007000103FF><pause>|
 196616|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Thank you for your help.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Thank you for your help, Heindel.<pause><lineend>|
 196617|
 <CC03EA><color=0004><string=0104><lineend><CC03F8=0001><color=0001>Can he change his own fate?<lineend>...Time will tell...<pause><lineend>|
 196618|
-<CC03EA><color=0004><string=0104><lineend><color=0002>ティタニア湖<color=0001>にいって<lineend>オンディーヌと会うがいい。<pause><lineend><CC03EA>彼女は水のあるところなら<lineend>どこへでも通ずることができる。<lineend>お前をアーソントゥラへと導くだろう。<lineend><pause>|
+<CC03EA><color=0004><string=0104><lineend><color=0002>Let's <color=0001>go<lineend> to Lake Titania, it would be good to meet Ondine there.<pause><lineend><CC03EA>She can guide anyone in seemingly<lineend>impossible watery locations.<lineend>She will lead you to Asontula.<lineend><pause>|
