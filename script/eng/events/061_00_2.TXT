@@ -115,7 +115,7 @@
 65546|
 <CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend><CC03EA>Please! I beg of you! Go find some Sharp-Leaf Grass and bring it to me!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along the path that splits off between Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
 65547|
-<CC03EA><color=0006><string=0165><lineend><color=0005>Please help me, Ribbit! Thank you!!!<lineend><pause>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Ribbit, I need your help!<lineend><pause>|
 131072|
 <CC03EA><color=0006><string=0165><lineend><color=0001>Did you bring me the Grass!?<pause><lineend><CC03EA>You did!! I can change back now!!<pause><lineend><CC03EA>Bring it this way!<lineend><pause>|
 131073|
@@ -139,7 +139,7 @@
 131082|
 <CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend><CC03EA>Please! I beg of you! Go find some Sharp-Leaf Grass and bring it to me!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along the path that splits off between Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
 131083|
-<CC03EA><color=0006><string=0165><lineend><color=0005>Please help me, Ribbit! Thank you!!!<lineend><pause>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Ribbit, I need your help!<lineend><pause>|
 196608|
 <CC03EA><color=0006><string=0165><lineend><color=0001>Did you bring me the Grass!?<pause><lineend><CC03EA>You did!! I can change back now!!<pause><lineend><CC03EA>Bring it this way!<lineend><pause>|
 196609|
